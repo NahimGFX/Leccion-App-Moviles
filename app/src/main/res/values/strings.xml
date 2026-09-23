@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Leccion</string>
+    <string name="L1">Don Quijote de la Mancha</string>
+    <string name="L2">Historia de dos ciudades</string>
+    <string name="L3">El senor de los anillos</string>
+    <string name="L4">El Principito</string>
+    <string name="L5">El Hobbit</string>
+    <string name="L6">Harry Potter</string>
+    <string name="Aventura">Aventura</string>
+    <string name="Fantasia">Fantasia</string>
+    <string name="Drama">Drama</string>
+    <string name="Infantil">Infantil</string>
+    <string name="Miguel">Miguel de Cervantes</string>
+    <string name="Charles">Charles Dickens</string>
+    <string name="JRR">J. R. R. Tolkien</string>
+    <string name="Antonie">Antoine de Saint-Exupéry</string>
+    <string name="JK"> J. K. Rowling</string>
+    <string name="titulo">Titulo %d</string>
+    <string name="autor">Autor %d</string>
+    <string name="genero">Genero %d</string>
+</resources>
